@@ -1,4 +1,6 @@
 #include <stdio.h>
+
+// return type + parameter
 int sum(int x, int y)
 {
     int sum = x + y;
